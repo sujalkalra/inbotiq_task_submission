@@ -243,10 +243,8 @@ This project is open source and available for portfolio use.
 
 ## 👤 Author
 
-Full Stack Developer - [Your Name]
+Full Stack Developer - SUJAL KALRA
 
 ## 🙏 Acknowledgments
 
-- Built with [Lovable](https://lovable.dev)
-- UI components from [Shadcn UI](https://ui.shadcn.com)
-- Icons from [Lucide](https://lucide.dev)
+- bug fixing with chatgpt.
