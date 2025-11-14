@@ -86,10 +86,6 @@ const LandingPage = () => {
               <p className="font-semibold">PostgreSQL</p>
               <p className="text-sm text-muted-foreground">Database</p>
             </div>
-            <div className="p-4 border border-border/50 rounded-lg">
-              <p className="font-semibold">Lovable Cloud</p>
-              <p className="text-sm text-muted-foreground">Backend</p>
-            </div>
           </div>
         </div>
       </div>
